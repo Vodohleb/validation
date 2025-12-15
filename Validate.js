@@ -28,4 +28,4 @@ const { register, handleSubmit, formState: {errors} } = useForm();
         value: /^[^\s@]+@([^\s@]+\.).[^\s@]+$/ , 
         message:"Неверный формат email"
     } 
- })} />
+ })} /> 
